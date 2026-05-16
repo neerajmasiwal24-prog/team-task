@@ -5,11 +5,11 @@
 ### 🔑 Test Credentials
 Feel free to use the following credentials to explore the application:
 - **Member**
-  - Email: `yuvraj123@gmail.com`
-  - Password: `yuvraj123`
-- **Admin**
   - Email: `satyam123@gmail.com`
-  - Password: `satyam123`
+  - Password: `satyam123123`
+- **Admin**
+  - Email: `neeraj123@gmail.com`
+  - Password: `neeraj123`
 
 ---
 
